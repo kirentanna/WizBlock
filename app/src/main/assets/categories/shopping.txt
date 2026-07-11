@@ -1,0 +1,8 @@
+amazon.com
+ebay.com
+etsy.com
+carousell.com
+shopee.com
+lazada.com
+aliexpress.com
+temu.com

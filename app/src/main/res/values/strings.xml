@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WizBlock</string>
+    <string name="site_blocked">Site blocked</string>
+    <string name="reason_focus_mode">Focus mode</string>
+    <string name="device_admin_description">Optional uninstall protection for Strict Mode</string>
+    <string name="device_admin_enable_explanation">WizBlock uses Android Device Admin only to prevent normal uninstall while Strict Mode uninstall protection is enabled. It does not request wipe, password, camera, or lock-screen policies.</string>
+    <string name="device_admin_enabled">Uninstall protection enabled</string>
+    <string name="device_admin_disabled">Uninstall protection disabled</string>
+    <string name="device_admin_disable_warning">Disabling this will allow WizBlock to be uninstalled normally.</string>
+</resources>
